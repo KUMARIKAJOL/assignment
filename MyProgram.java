@@ -1,20 +1,7 @@
-class DisplayMessage
-{
-  void printMessage(){
- 
-  System.out.println("Hello My Message");
-
-}
-
-
 class  MyProgram {
-    
-public static void main(String arg[]){
-   
-   DisplayMessage program=new DisplayMessage();
-    
-  program.printMessage();
   
+public static void main(String arg[]){
+ 
+ System.out.println("My First Java Program");
  }
-}
 }
